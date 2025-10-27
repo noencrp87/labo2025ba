@@ -1,1 +1,2 @@
-IMPORTANTE:Durante la corrida de la notebook correspondiente la proyecto, no se realizaron los submission en kaggle de forma automatica. Por ello, desarrolle la notebook Archivos de submission, que me permitía generar los archivos .csv para poder realizar los submission en kaggle de forma manual.
+IMPORTANTE:Durante la corrida de la notebook correspondiente la proyecto, no se realizaron los submission en kaggle de forma automatica. 
+Por ello, desarrolle la notebook Archivos de submission, que me permitía generar los archivos .csv para poder realizar los submission en kaggle de forma manual.
